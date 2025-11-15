@@ -1,0 +1,5 @@
+{
+  "name": "Cole.vn - Phân tích hồ sơ",
+  "description": "Một ứng dụng web để tải lên và phân tích hồ sơ tuyển dụng PDF. Các tệp đã tải lên sẽ được gửi đến một webhook để xử lý.",
+  "requestFramePermissions": []
+}
